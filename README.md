@@ -10,6 +10,7 @@ Machine Learning basic model building with sci-kit learn and creating algorithm 
 * SVM 
 * K-Means
 * MeanShift
+* Sample Projects
 
 ## Reference
 
